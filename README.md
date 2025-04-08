@@ -13,9 +13,6 @@ A full-stack blogging platform inspired by Medium — where users can sign up, c
 - [API Endpoints](#-api-endpoints)
 - [Screenshots](#-screenshots)
 - [Concepts Demonstrated](#-concepts-demonstrated)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
-- [License](#-license)
 
 ---
 

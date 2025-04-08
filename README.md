@@ -79,17 +79,17 @@ medium/
 ```
 # 🧠 Concepts Demonstrated
 
-    #-CRUD operations in a real-world blogging system
+    CRUD operations in a real-world blogging system
 
-    #-JWT authentication for secure routing
+    JWT authentication for secure routing
 
-    #-RESTful API architecture
+    RESTful API architecture
 
-    #-State management using React Context API
+    State management using React Context API
 
-    #-Modular and maintainable project structure
+    Modular and maintainable project structure
 
-    #-UI built with accessibility and responsiveness in mind
+    UI built with accessibility and responsiveness in mind
 
 
 # ⭐️ Show Your Support
